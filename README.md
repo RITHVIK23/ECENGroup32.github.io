@@ -18,7 +18,8 @@ The implication of these image classification techniques in the clothing busines
 
 The FashionMNIST (F-MNIST) dataset, comprises of 60,000 training set samples and 10,000 test set samples. The F-MNIST dataset features grayscale images of fashion products categorized into 10 distinct classes, each with a resolution of 28x28 pixels.
 
-![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8)
+![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8) ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/5fcbea61-775c-4684-86e1-ef05df661a33)
+
 Fig.1 FashionMNSIT samples images
 
 
