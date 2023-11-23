@@ -13,7 +13,7 @@ K-Nearest Neighbors (KNN) also finds relevance in FashionMNIST classification, a
 
 The implication of these image classification techniques in the clothing business is profound. By accurately categorizing and recommending clothing items, businesses can optimize their inventory, reduce manual labor, and enhance the overall shopping experience for customers. Whether through the sophisticated feature extraction capabilities of CNNs or the simplicity of KNN for similarity-based recommendations, these algorithms contribute significantly to the efficiency and competitiveness of the clothing industry in the contemporary market.
 
-# FashionMNSIT Dataset: Visualisation and Summary
+# FashionMNSIT Dataset: Visualisation
 
 The Fashion MNIST dataset is a popular benchmark in the field of machine learning and computer vision, serving as an alternative to the traditional handwritten digit MNIST dataset. Created by Zalando Research, Fashion MNIST is designed to facilitate the development and evaluation of algorithms for image classification tasks within the context of the fashion industry.
 
