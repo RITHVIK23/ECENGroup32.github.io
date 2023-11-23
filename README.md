@@ -22,14 +22,22 @@ Comprising a collection of 28x28 grayscale images, the dataset consists of 60,00
 
 ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8) ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/5fcbea61-775c-4684-86e1-ef05df661a33)
 
-Fig.1 FashionMNSIT samples images from the dataset                                             Fig.2 Sample images from each class
+Fig.1 FashionMNSIT samples images from the dataset                                                                Fig.2 Sample images from each class
+
+# Conclusion and Summary
+
+When comparing K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN) models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers.
+
+In the dynamic fashion industry landscape, machine learning algorithms play a crucial role, particularly in product recommendation based on similarity. This feature goes beyond convenience, significantly impacting business outcomes by analyzing customer preferences and suggesting items similar in style, color, or pattern to those of prior interest or purchase. This not only enhances the shopping experience but also fosters loyalty, ultimately driving better business performance.
+
+Furthermore, the influence of learning algorithms extends into manufacturing, where their precision proves instrumental in maintaining product quality. These algorithms identify defects in colors and shapes, critical in an industry susceptible to errors. They excel at pinpointing inconsistencies in production procedures, streamlining operations, and ensuring a seamless workflow. The integration of learning algorithms into the fashion domain transforms the customer experience and fortifies the manufacturing process, affirming their multifaceted significance in shaping the future of the industry.
 
 
 # Materials
 
 Source Code: ![link](https://colab.research.google.com/drive/1v3Ot_GGzSGNlANNjxhmOYkAypHLT_Jnd#scrollTo=AjCzP811LzER)
 
-Project Report: 
+Project Report: ![link](https://github.com/RITHVIK23/ECENGroup32.github.io/blob/main/Group32_ECEN758_Report.pdf)
 
 
 
