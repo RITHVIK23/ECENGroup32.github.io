@@ -40,7 +40,7 @@ Furthermore, the influence of learning algorithms extends into manufacturing, wh
 
 [GitHub Respository](https://github.com/RITHVIK23/FashionMNSIT_CNN)
 
-[Project Report](https://github.com/RITHVIK23/ECENGroup32.github.io/blob/main/Group32_ECEN758_Report.pdf)
+[Project Report](https://github.com/RITHVIK23/FashionMNSIT_CNN/blob/main/Group32_ECEN758_Report.pdf)
 
 
 
