@@ -16,10 +16,19 @@ The implication of these image classification techniques in the clothing busines
 
 # FashionMNSIT Dataset: Visualisation and Summary
 
-The FashionMNIST (F-MNIST) dataset, comprises of 60,000 training set samples and 10,000 test set samples. The F-MNIST dataset features grayscale images of fashion products categorized into 10 distinct classes, each with a resolution of 28x28 pixels.
+The Fashion MNIST dataset is a popular benchmark in the field of machine learning and computer vision, serving as an alternative to the traditional handwritten digit MNIST dataset. Created by Zalando Research, Fashion MNIST is designed to facilitate the development and evaluation of algorithms for image classification tasks within the context of the fashion industry.
+
+Comprising a collection of 28x28 grayscale images, the dataset consists of 60,000 training samples of 20*20 pixels and 10,000 test samples, each labeled into one of 10 distinct fashion categories. These categories encompass a diverse range of clothing items, including T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots. The dataset's structure makes it a valuable resource for researchers, students, and practitioners working on image classification, deep learning, and pattern recognition tasks.
 
 ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8) ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/5fcbea61-775c-4684-86e1-ef05df661a33)
 
-Fig.1 FashionMNSIT samples images
+Fig.1 FashionMNSIT samples images from the dataset                                             Fig.2 Sample images from each class
+
+
+# Materials
+
+Source Code: ![link](https://colab.research.google.com/drive/1v3Ot_GGzSGNlANNjxhmOYkAypHLT_Jnd#scrollTo=AjCzP811LzER)
+
+
 
 
