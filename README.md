@@ -29,6 +29,8 @@ Fig.1 FashionMNSIT samples images from the dataset                              
 
 Source Code: ![link](https://colab.research.google.com/drive/1v3Ot_GGzSGNlANNjxhmOYkAypHLT_Jnd#scrollTo=AjCzP811LzER)
 
+Project Report: 
+
 
 
 
