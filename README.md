@@ -19,9 +19,13 @@ The Fashion MNIST dataset is a popular benchmark in the field of machine learnin
 
 Comprising a collection of 28x28 grayscale images, the dataset consists of 60,000 training samples of 20*20 pixels and 10,000 test samples, each labeled into one of 10 distinct fashion categories. These categories encompass a diverse range of clothing items, including T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots. The dataset's structure makes it a valuable resource for researchers, students, and practitioners working on image classification, deep learning, and pattern recognition tasks.
 
-![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8) ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/5fcbea61-775c-4684-86e1-ef05df661a33)
+![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8) 
 
-Fig.1 FashionMNSIT samples images from the dataset                                                                Fig.2 Sample images from each class
+  Fig.1 FashionMNSIT samples images from the dataset        
+  
+![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/5fcbea61-775c-4684-86e1-ef05df661a33)
+  
+  Fig.2 Sample images from each class
 
 # Conclusion and Summary
 
