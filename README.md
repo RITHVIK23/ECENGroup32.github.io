@@ -38,9 +38,11 @@ Furthermore, the influence of learning algorithms extends into manufacturing, wh
 
 # Materials
 
-Source Code: ![link](https://colab.research.google.com/drive/1v3Ot_GGzSGNlANNjxhmOYkAypHLT_Jnd#scrollTo=AjCzP811LzER)
+Source Code: ![link Text][Code]
+[Code](URL)]: https://colab.research.google.com/drive/1v3Ot_GGzSGNlANNjxhmOYkAypHLT_Jnd#scrollTo=AjCzP811LzER
 
-Project Report: ![link](https://github.com/RITHVIK23/ECENGroup32.github.io/blob/main/Group32_ECEN758_Report.pdf)
+Project Report: ![link Text][Report]
+Report: https://github.com/RITHVIK23/ECENGroup32.github.io/blob/main/Group32_ECEN758_Report.pdf
 
 
 
