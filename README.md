@@ -1,4 +1,4 @@
-# FashionMNSIT Classification using Machine Learning and Deep learning algorithms
+# FashionMNIST Classification using Convolutional Neural Network and K-Nearest Neighbors
 
 **Authors:**
 
