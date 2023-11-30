@@ -5,7 +5,7 @@ Authors:
 3) Atharva Agashe, MS in Computer Engineering'25, Texas A&M University    
 4) Prof. Joshua Peeples, Department of Electrical & Computer Engineering, Texas A&M University
 
-Abstract— This research paper delves into the utilization of sophisticated machine learning techniques, specifically Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN), for the classification of the FashionMNIST dataset. FashionMNIST, a widely recognized benchmark dataset in the realm of computer vision, comprises 60,000 training images and 10,000 testing images, each associated with one of the ten fashion categories. The primary aim of this study is to compare the efficacy of CNN and KNN algorithms in accurately categorizing these diverse fashion items. The experimental outcomes shed light on the comparative strengths and weaknesses of both CNN and KNN methodologies within the context of FashionMNIST classification. Performance metrics, including accuracy, precision, recall, and F1 score, are employed to comprehensively assess the models' classification capabilities. The research findings contribute significantly to discerning the suitability of these algorithms for image classification tasks, offering valuable insights into their potential applications within the clothing domain.
+**Abstract**— This research paper delves into the utilization of sophisticated machine learning techniques, specifically Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN), for the classification of the FashionMNIST dataset. FashionMNIST, a widely recognized benchmark dataset in the realm of computer vision, comprises 60,000 training images and 10,000 testing images, each associated with one of the ten fashion categories. The primary aim of this study is to compare the efficacy of CNN and KNN algorithms in accurately categorizing these diverse fashion items. The experimental outcomes shed light on the comparative strengths and weaknesses of both CNN and KNN methodologies within the context of FashionMNIST classification. Performance metrics, including accuracy, precision, recall, and F1 score, are employed to comprehensively assess the models' classification capabilities. The research findings contribute significantly to discerning the suitability of these algorithms for image classification tasks, offering valuable insights into their potential applications within the clothing domain.
 
 # Learning Algorithms: Convolutional Neural Network and K-Nearest Neighbours
 
@@ -24,23 +24,23 @@ Comprising a collection of 28x28 grayscale images, the dataset consists of 60,00
 
 ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/edd7f532-21d4-4bda-8810-a5fe3022fec8) 
 
-  Fig.1 FashionMNSIT samples images from the dataset        
+  **Fig.1 FashionMNSIT samples images from the dataset**        
   
 ![image](https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/5fcbea61-775c-4684-86e1-ef05df661a33)
   
-  Fig.2 Sample images from each class
-
+  **Fig.2 Sample images from each class**
+  
 # Conclusion and Summary
 
 When comparing KNN and CNN models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers. The comparision can be inferred from the table given below.
 
 <img width="231" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/09f4bee2-e4c5-465e-bf2a-649420e77ccb">
 
-  Table.1 KNN vs CNN on Accuracy, Precision and Recall
+  **Table.1 KNN vs CNN on Accuracy, Precision and Recall**
 
 <img width="138" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/39e0e54b-b5bb-4192-99ad-00fe82da8180">
 
-  Table.1 KNN vs CNN on F1 Score
+  **Table.1 KNN vs CNN on F1 Score**
 
 In the dynamic fashion industry landscape, machine learning algorithms play a crucial role, particularly in product recommendation based on similarity. This feature goes beyond convenience, significantly impacting business outcomes by analyzing customer preferences and suggesting items similar in style, color, or pattern to those of prior interest or purchase. This not only enhances the shopping experience but also fosters loyalty, ultimately driving better business performance.
 
