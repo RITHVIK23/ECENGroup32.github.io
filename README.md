@@ -1,6 +1,9 @@
 # FashionMNSIT Classification using Machine Learning and Deep learning algorithms
 
-Sriram Balasubramanian,            Rithvik Srinivasaiya,       Atharva Agashe,        Joshua Peeples
+Sriram Balasubramanian, MS in Data Science
+Rithvik Srinivasaiya, MS in Data Science      
+Atharva Agashe, MS in Computer Engineering     
+Prof. Joshua Peeples, Advisor
 
 Abstract— This research paper delves into the utilization of sophisticated machine learning techniques, specifically Convolutional Neural Networks (CNN) and k-Nearest Neighbors (KNN), for the classification of the FashionMNIST dataset. FashionMNIST, a widely recognized benchmark dataset in the realm of computer vision, comprises 60,000 training images and 10,000 testing images, each associated with one of the ten fashion categories. The primary aim of this study is to compare the efficacy of CNN and KNN algorithms in accurately categorizing these diverse fashion items. The experimental outcomes shed light on the comparative strengths and weaknesses of both CNN and KNN methodologies within the context of FashionMNIST classification. Performance metrics, including accuracy, precision, recall, and F1 score, are employed to comprehensively assess the models' classification capabilities. The research findings contribute significantly to discerning the suitability of these algorithms for image classification tasks, offering valuable insights into their potential applications within the clothing domain.
 
@@ -29,7 +32,11 @@ Comprising a collection of 28x28 grayscale images, the dataset consists of 60,00
 
 # Conclusion and Summary
 
-When comparing K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN) models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers.
+When comparing K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN) models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers. The comparision can be inferred from the table given below.
+
+<img width="229" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/57a9a18a-6abc-455f-b9f9-c2413748f1b0">
+
+<img width="137" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/f2b4df24-5f3a-443d-9cf4-94410205d6b7">
 
 In the dynamic fashion industry landscape, machine learning algorithms play a crucial role, particularly in product recommendation based on similarity. This feature goes beyond convenience, significantly impacting business outcomes by analyzing customer preferences and suggesting items similar in style, color, or pattern to those of prior interest or purchase. This not only enhances the shopping experience but also fosters loyalty, ultimately driving better business performance.
 
