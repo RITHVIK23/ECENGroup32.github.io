@@ -33,10 +33,11 @@ Comprising a collection of 28x28 grayscale images, the dataset consists of 60,00
 # Conclusion and Summary
 
 When comparing K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN) models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers. The comparision can be inferred from the table given below.
+<img width="231" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/09f4bee2-e4c5-465e-bf2a-649420e77ccb">
+Table.1 KNN vs CNN on Accuracy, Precision and Recall
 
-<img width="229" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/57a9a18a-6abc-455f-b9f9-c2413748f1b0">
-
-<img width="137" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/f2b4df24-5f3a-443d-9cf4-94410205d6b7">
+<img width="176" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/fae26560-72b2-4a2a-ace8-535534bf339e">
+Table.1 KNN vs CNN on F1 Score
 
 In the dynamic fashion industry landscape, machine learning algorithms play a crucial role, particularly in product recommendation based on similarity. This feature goes beyond convenience, significantly impacting business outcomes by analyzing customer preferences and suggesting items similar in style, color, or pattern to those of prior interest or purchase. This not only enhances the shopping experience but also fosters loyalty, ultimately driving better business performance.
 
