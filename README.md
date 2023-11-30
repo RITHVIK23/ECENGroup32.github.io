@@ -33,6 +33,7 @@ Comprising a collection of 28x28 grayscale images, the dataset consists of 60,00
 # Conclusion and Summary
 
 When comparing KNN and CNN models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers. The comparision can be inferred from the table given below.
+
 <img width="231" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/09f4bee2-e4c5-465e-bf2a-649420e77ccb">
 
   Table.1 KNN vs CNN on Accuracy, Precision and Recall
