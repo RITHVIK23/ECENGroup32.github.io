@@ -1,5 +1,6 @@
 # FashionMNSIT Classification using Machine Learning and Deep learning algorithms
-Authors:
+**Authors:**
+
 1) Sriram Balasubramanian, MS in Data Science'24, Texas A&M University
 2) Rithvik Srinivasaiya, MS in Data Science'24, Texas A&M University     
 3) Atharva Agashe, MS in Computer Engineering'25, Texas A&M University    
