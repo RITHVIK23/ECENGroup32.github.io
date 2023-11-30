@@ -9,7 +9,7 @@ Abstract— This research paper delves into the utilization of sophisticated mac
 
 # Learning Algorithms: Convolutional Neural Network and K-Nearest Neighbours
 
-In the context of fashion and image classification, both Convolutional Neural Networks (CNNs) and K-Nearest Neighbors (KNN) have noteworthy implications, especially when applied to datasets like FashionMNIST.
+In the context of fashion and image classification, both CNNs and KNN have noteworthy implications, especially when applied to datasets like FashionMNIST.
 Convolutional Neural Networks (CNNs) have emerged as a game-changer in the fashion industry, particularly in tasks like clothing item recognition. Trained on datasets like FashionMNIST, CNNs excel at automatically extracting and learning hierarchical features from images, capturing the nuances of different clothing items. This capability is pivotal for tasks such as classifying various apparel categories, enabling e-commerce platforms to provide accurate and efficient product recommendations. CNNs are instrumental in enhancing the overall user experience by streamlining the search process for consumers and facilitating the automation of inventory management for businesses in the clothing industry.
 
 K-Nearest Neighbors (KNN) also finds relevance in FashionMNIST classification, albeit in scenarios where simplicity and interpretability are essential. While not as complex as CNNs, KNN can be effective in tasks like recommending similar clothing items based on user preferences. This straightforward algorithm operates on the principle of proximity, making it suitable for scenarios where understanding the similarity between different clothing items is crucial. In the clothing business, KNN can be employed for personalized recommendations, enhancing customer engagement and satisfaction.
@@ -32,12 +32,12 @@ Comprising a collection of 28x28 grayscale images, the dataset consists of 60,00
 
 # Conclusion and Summary
 
-When comparing K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN) models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers. The comparision can be inferred from the table given below.
+When comparing KNN and CNN models on the Fashion MNIST dataset, the CNN demonstrates superior performance across various metrics, including accuracy, precision, and recall. The CNN's advantage extends to classwise F1 scores, particularly excelling in categories like 'Shirt,' 'Sneaker,' and 'Bag.' This superiority can be attributed to the CNN's ability to extract complex hierarchical features, facilitated by its convolutional layers. The comparision can be inferred from the table given below.
 <img width="231" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/09f4bee2-e4c5-465e-bf2a-649420e77ccb">
 
   Table.1 KNN vs CNN on Accuracy, Precision and Recall
 
-<img width="138" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/64b6e3cb-4ae6-4d41-afdd-9972594c1caa">
+<img width="138" alt="image" src="https://github.com/RITHVIK23/ECENGroup32.github.io/assets/58556705/39e0e54b-b5bb-4192-99ad-00fe82da8180">
 
   Table.1 KNN vs CNN on F1 Score
 
